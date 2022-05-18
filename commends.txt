@@ -4,3 +4,6 @@ git status=> list all untracked files
 
 git add -A=> adding all chnages to staging area
 git add -m  msg ""=>to add localrep
+
+git remote add "name" path
+git push  -u  test masters
